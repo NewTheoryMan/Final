@@ -195,3 +195,22 @@ padding:0;
 * html #menu-bar {
   height: 1%;
 }
+
+.textbox {
+box-sizing: border-box;
+width: 50%;
+border: 1px ridge #000;
+padding: 0 5px;
+background-color: white;
+align-self: center;
+text-indent: 100px;
+}
+
+.heading {
+text-align: center;
+}
+
+.link {
+    text-align: center;
+align-items:baseline;
+}
