@@ -214,3 +214,11 @@ text-align: center;
     text-align: center;
 align-items:baseline;
 }
+
+.image {
+width: 700px;
+border-style: solid;
+border-color: black;
+border-width: 1px;
+background-color:white;
+}
